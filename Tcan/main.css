@@ -1,0 +1,156 @@
+body{
+  margin:0;
+  display:block;
+}
+
+.plat-icon{
+  display:flex;
+  flex-direction: column;
+  height:160px;
+  width:160px;
+  
+
+}
+.outerPlat{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  width:100%;
+} 
+
+.box1{
+  display: flex;
+  flex-direction: row;
+  margin-right:30px;
+  margin-top:200px;
+  height:100%;
+  width:800px;
+  background-color:aliceblue;
+}
+
+.plat-inbox{
+  margin-right:40px;
+  /* increase the size of blue box section1 */
+  margin-bottom:80px;
+}
+
+.plat-header{
+  margin-top:50px;
+  font-size:20px;
+  position: relative;
+  align-items: left;
+}
+
+/* second row of temps boxes */
+
+.plat-icon2{
+  display:flex;
+  height:160px;
+  width:160px;
+}
+
+.box2{
+  display: flex;
+  flex-direction: row;
+  margin-right:30px;
+  margin-top:30px;
+  height:100%;
+  width:800px;
+  background-color:aliceblue;
+}
+.outerPlat2{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  width:100%;
+}
+
+
+.plat-inbox2{
+  margin-right:40px;
+
+  /* increase size of blue block section2 */
+  margin-bottom:120px;
+}
+
+.plat-header2{
+  margin-top:50px;
+  font-size:20px;
+  position: relative;
+  align-items: left;
+}
+
+
+
+/* section 3 or temp boxes !!!!*/
+
+
+.plat-icon3{
+  display:flex;
+  height:160px;
+  width:160px;
+}
+
+.box3{
+  display: flex;
+  flex-direction: row;
+  margin-right:30px;
+  margin-top:30px;
+  height:100%;
+  width:800px;
+  background-color:aliceblue;
+}
+.outerPlat3{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  width:100%;
+  margin-bottom:50px;
+}
+
+
+.plat-inbox3{
+  margin-right:40px;
+
+  /* how to increase size of box height  */
+  margin-bottom:90px;
+}
+
+.plat-header3{
+  margin-top:50px;
+  font-size:20px;
+  position: relative;
+  align-items: left;
+}
+
+.button-free{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom:100px;
+}
+.FreeBtn{
+  border-color: transparent;
+  background-color: #5bc399;
+  font-size: 1rem;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Tofino", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica", sans-serif;
+  font-weight: 500;
+  margin-bottom: 0;
+  outline: none;
+  padding: 20px 30px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: normal;
+  -webkit-appearance: none;
+  line-height: 1.15;
+
+}
+
+
+
